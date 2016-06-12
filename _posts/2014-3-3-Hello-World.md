@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Brew
+published: true
 ---
+Brew is a dark and grungy cafe/bar down an alleyway in the middle of Brisbane city.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The haloumi burger was full of taste and great value at only $11. The salmon bagel, though quite simple, had a unique tang to it.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Brew's ice lattes were far from impressive but the food was great.
